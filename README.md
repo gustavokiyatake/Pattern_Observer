@@ -17,4 +17,5 @@ A classe ConcreteObserver implementa a interface Observer, definindo assim o mé
 #### Observer
 O método update() que é chamado quando o estado do Subject é alterado.
 # Exemplo de Implementação
-
+https://github.com/gustavokiyatake/Pattern_Observer/tree/main/Observer-Pattern/src
+https://github.com/gustavokiyatake/Pattern_Observer/tree/main/Observer-Pattern1/src
